@@ -57,8 +57,100 @@ const Sidebar = () => {
         <hr className="sidebar-hr" />
         <ul className="sidebar-friend-list">
           <li className="sidebar-friend">
-             <img src="/assests/person/alimi1.jpeg" alt="" className="sidebar-friend-img" />
-             <span className="sidebar-friend-name"></span>
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
+          </li>
+          <li className="sidebar-friend">
+            <img
+              src="/assests/person/alimi1.jpeg"
+              alt=""
+              className="sidebar-friend-img"
+            />
+            <span className="sidebar-friend-name">marusoft</span>
           </li>
         </ul>
       </div>
