@@ -26,10 +26,11 @@ export const Users = [
   },
 ];
 
+
 export const Posts = [
   {
     id: 1,
-    desc: 'Love for All, Hate for none',
+    desc: 'Want to study analytics and data science',
     photo: '/assests/post/post-2.jpeg',
     date: '3 min ago',
     userId: 1,
